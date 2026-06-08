@@ -1,0 +1,51 @@
+[class^="mc-icon-"], [class*=" mc-icon-"] {
+  font-family: 'misterchickeniconfont';
+  font-style: normal;
+  font-weight: normal;
+
+  /* fix buttons height */
+  line-height: 1em;
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.mc-icon-mrc-mes-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-lepel-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-kippenpoot-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-caddy-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-gegrilde-kip-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-locatie-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-vlam-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-telefoon-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-mail-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-truck-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-document-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-burger-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-vork-paars { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-gegrilde-kip-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-document-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-kippenpoot-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-lepel-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-locatie-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-mail-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-mes-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-truck-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-telefoon-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-vork-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-vlam-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-caddy-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-burger-groen { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-gegrilde-kip-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-kippenpoot-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-lepel-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-locatie-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-mail-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-telefoon-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-truck-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-burger-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-caddy-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-mes-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-vork-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-document-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
+.mc-icon-mrc-vlam-beige { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = ' '); }
