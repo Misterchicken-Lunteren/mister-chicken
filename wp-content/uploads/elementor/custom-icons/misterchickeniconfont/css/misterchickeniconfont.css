@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'misterchickeniconfont';
+  src: url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.eot?12004470');
+  src: url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.eot?12004470#iefix') format('embedded-opentype'),
+       url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.woff2?12004470') format('woff2'),
+       url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.woff?12004470') format('woff'),
+       url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.ttf?12004470') format('truetype'),
+       url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.svg?12004470#misterchickeniconfont') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'misterchickeniconfont';
+    src: url('https://misterchicken-lunteren.github.io/mister-chicken/wp-content/uploads/elementor/custom-icons/misterchickeniconfont/font/misterchickeniconfont.svg?12004470#misterchickeniconfont') format('svg');
+  }
+}
+*/
+[class^="mc-icon-"]:before, [class*=" mc-icon-"]:before {
+  font-family: "misterchickeniconfont";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.mc-icon-mrc-mes-paars:before { content: '\e800'; } /* '' */
+.mc-icon-mrc-lepel-paars:before { content: '\e801'; } /* '' */
+.mc-icon-mrc-kippenpoot-paars:before { content: '\e802'; } /* '' */
+.mc-icon-mrc-caddy-paars:before { content: '\e803'; } /* '' */
+.mc-icon-mrc-gegrilde-kip-paars:before { content: '\e804'; } /* '' */
+.mc-icon-mrc-locatie-paars:before { content: '\e805'; } /* '' */
+.mc-icon-mrc-vlam-paars:before { content: '\e806'; } /* '' */
+.mc-icon-mrc-telefoon-paars:before { content: '\e807'; } /* '' */
+.mc-icon-mrc-mail-paars:before { content: '\e808'; } /* '' */
+.mc-icon-mrc-truck-paars:before { content: '\e809'; } /* '' */
+.mc-icon-mrc-document-paars:before { content: '\e80a'; } /* '' */
+.mc-icon-mrc-burger-paars:before { content: '\e80b'; } /* '' */
+.mc-icon-mrc-vork-paars:before { content: '\e80c'; } /* '' */
+.mc-icon-mrc-gegrilde-kip-groen:before { content: '\e80d'; } /* '' */
+.mc-icon-mrc-document-groen:before { content: '\e80e'; } /* '' */
+.mc-icon-mrc-kippenpoot-groen:before { content: '\e80f'; } /* '' */
+.mc-icon-mrc-lepel-groen:before { content: '\e810'; } /* '' */
+.mc-icon-mrc-locatie-groen:before { content: '\e811'; } /* '' */
+.mc-icon-mrc-mail-groen:before { content: '\e812'; } /* '' */
+.mc-icon-mrc-mes-groen:before { content: '\e813'; } /* '' */
+.mc-icon-mrc-truck-groen:before { content: '\e814'; } /* '' */
+.mc-icon-mrc-telefoon-groen:before { content: '\e815'; } /* '' */
+.mc-icon-mrc-vork-groen:before { content: '\e816'; } /* '' */
+.mc-icon-mrc-vlam-groen:before { content: '\e817'; } /* '' */
+.mc-icon-mrc-caddy-groen:before { content: '\e818'; } /* '' */
+.mc-icon-mrc-burger-groen:before { content: '\e819'; } /* '' */
+.mc-icon-mrc-gegrilde-kip-beige:before { content: '\e81a'; } /* '' */
+.mc-icon-mrc-kippenpoot-beige:before { content: '\e81b'; } /* '' */
+.mc-icon-mrc-lepel-beige:before { content: '\e81c'; } /* '' */
+.mc-icon-mrc-locatie-beige:before { content: '\e81d'; } /* '' */
+.mc-icon-mrc-mail-beige:before { content: '\e81e'; } /* '' */
+.mc-icon-mrc-telefoon-beige:before { content: '\e81f'; } /* '' */
+.mc-icon-mrc-truck-beige:before { content: '\e820'; } /* '' */
+.mc-icon-mrc-burger-beige:before { content: '\e821'; } /* '' */
+.mc-icon-mrc-caddy-beige:before { content: '\e822'; } /* '' */
+.mc-icon-mrc-mes-beige:before { content: '\e823'; } /* '' */
+.mc-icon-mrc-vork-beige:before { content: '\e824'; } /* '' */
+.mc-icon-mrc-document-beige:before { content: '\e825'; } /* '' */
+.mc-icon-mrc-vlam-beige:before { content: '\e826'; } /* '' */
